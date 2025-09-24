@@ -13,7 +13,7 @@ notification when it finds one.
 Installation
 ------------
 
-This script has been tested on Fedora Linux 39, Linux Linux Mint 22.2 and requires node > 17.5
+This script has been tested on Fedora Linux 39, Linux Mint 22.2 and requires node > 17.5
 
 ## Fedora
 
@@ -23,7 +23,7 @@ sudo dnf install geoclue2-demos nodejs
 
 ## Mint
 ```
-sudo apt install nodejs
+sudo apt install geoclue-2-demo nodejs
 ```
 
 Usage

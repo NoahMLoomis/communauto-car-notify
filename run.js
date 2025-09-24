@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-import { execSync, spawnSync } from 'child_process';
-import { parseArgs } from 'util';
+import { execSync, spawnSync } from 'node:child_process';
+import { parseArgs } from 'node:util';
+import process from "node:process";
 
 const branchIds = {
   montreal: 1,
